@@ -1,0 +1,50 @@
+\section{Metodología}
+
+\subsection{Fuentes de datos}
+
+Los datos utilizados en este trabajo se estimaron basados en las siguientes fuentes oficiales:
+
+\begin{itemize}
+    \item Departamento Administrativo Nacional de Estadística (DANE) - Cuentas Nacionales Departamentales del PIB por sector económico.
+    \item Cámara de Comercio de La Guajira - Registro Mercantil y estructura de empresas por sector.
+    \item Informes socioeconómicos del departamento de La Guajira.
+\end{itemize}
+
+Los datos de flujos intersectoriales se expresan en miles de millones de pesos colombianos y representan las transacciones entre los tres sectores seleccionados: Agricultura, Tecnología y Servicios.
+
+\subsection{Procedimiento de cálculo}
+
+El análisis se realizó siguiendo los siguientes pasos:
+
+\begin{enumerate}
+    \item \textbf{Construcción de la matriz de coeficientes técnicos (A):} Se calculó como $A = Z / X$, donde $Z$ representa los flujos intersectoriales y $X$ es la producción total de cada sector.
+
+    \item \textbf{Cálculo de la matriz inversa de Leontief:} Se calculó como $(I - A)^{-1}$, donde $I$ es la matriz identidad.
+
+    \item \textbf{Cálculo de la producción total requerida:} Se calculó como $X = (I - A)^{-1} \times D$, donde $D$ es el vector de demanda final.
+
+    \item \textbf{Cálculo de multiplicadores de producción:} Se calculó como la suma de cada columna de la matriz inversa de Leontief.
+\end{enumerate}
+
+\subsection{Herramientas utilizadas}
+
+\begin{itemize}
+    \item Python 3 con librerías pandas, numpy, matplotlib y seaborn para los cálculos y generación de gráficos.
+    \item LaTeX para la elaboración del documento académico siguiendo normas APA 7ª edición.
+\end{itemize}
+
+\subsection{Descripción de los ejercicios}
+
+\textbf{Ejercicio 1: Matriz de Leontief básica}
+
+Se calculó la matriz de coeficientes técnicos, la matriz inversa de Leontief, la producción total requerida y los multiplicadores de producción para los tres sectores.
+
+\textbf{Ejercicio 2: Impacto de un aumento en la demanda final}
+
+Se evaluó cómo un aumento del 20\% en la demanda final del sector Agricultura afecta la producción total de todos los sectores.
+
+\textbf{Ejercicio 3: Comparación de escenarios de demanda}
+
+Se compararon tres escenarios de demanda final: conservador (-10\%), base (demanda actual) y optimista (+15\%), calculando la producción requerida para cada uno.
+
+\clearpage

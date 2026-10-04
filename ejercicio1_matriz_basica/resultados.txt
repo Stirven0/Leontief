@@ -1,0 +1,23 @@
+=== RESULTADOS DE LA MATRIZ DE LEONTIEF - LA GUAJIRA ===
+
+Matriz de Coeficientes Tecnicos (A):
+             Agricultura  Tecnologia  Servicios
+Agricultura         0.10    0.133333   0.023077
+Tecnologia          0.16    0.166667   0.153846
+Servicios           0.12    0.111111   0.192308
+
+Matriz Inversa de Leontief (I-A)^-1:
+             Agricultura  Tecnologia  Servicios
+Agricultura     1.154952    0.194122   0.069974
+Tecnologia      0.260033    1.274976   0.250282
+Servicios       0.207365    0.204235   1.282922
+
+Produccion Total Requerida (X):
+Agricultura: 4.80 miles de millones de pesos
+Tecnologia: 7.88 miles de millones de pesos
+Servicios: 11.70 miles de millones de pesos
+
+Multiplicadores de Produccion:
+Agricultura: 1.62
+Tecnologia: 1.67
+Servicios: 1.60

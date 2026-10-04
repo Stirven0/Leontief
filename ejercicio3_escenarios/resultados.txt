@@ -1,0 +1,29 @@
+=== COMPARACION DE ESCENARIOS DE DEMANDA FINAL ===
+
+Demanda final por escenario:
+Agricultura:
+  Conservador (-10%): 2.70
+  Base: 3.00
+  Optimista (+15%): 3.45
+Tecnologia:
+  Conservador (-10%): 3.60
+  Base: 4.00
+  Optimista (+15%): 4.60
+Servicios:
+  Conservador (-10%): 7.20
+  Base: 8.00
+  Optimista (+15%): 9.20
+
+Produccion total requerida por escenario:
+Agricultura:
+  Conservador: 4.32
+  Base: 4.80
+  Optimista: 5.52
+Tecnologia:
+  Conservador: 7.09
+  Base: 7.88
+  Optimista: 9.06
+Servicios:
+  Conservador: 10.53
+  Base: 11.70
+  Optimista: 13.46

@@ -1,0 +1,11 @@
+=== IMPACTO DEL AUMENTO DEL 20% EN DEMANDA DE AGRICULTURA ===
+
+Demanda final original vs nueva:
+Agricultura: 3.00 -> 3.60
+Tecnologia: 4.00 -> 4.00
+Servicios: 8.00 -> 8.00
+
+Produccion total requerida (original vs nueva):
+Agricultura: 4.80 -> 5.49 (cambio: +0.69, +14.4%)
+Tecnologia: 7.88 -> 8.04 (cambio: +0.16, +2.0%)
+Servicios: 11.70 -> 11.83 (cambio: +0.12, +1.1%)

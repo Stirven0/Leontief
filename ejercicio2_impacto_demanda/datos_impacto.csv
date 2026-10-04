@@ -1,0 +1,5 @@
+sector,agricultura,tecnologia,servicios,demanda_final
+agricultura,0.5,1.2,0.3,3.0
+tecnologia,0.8,1.5,2.0,4.0
+servicios,0.6,1.0,2.5,8.0
+produccion_total,5.0,9.0,13.0,27.0
